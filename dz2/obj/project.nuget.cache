@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z4vByfVqSNI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Danver\\Desktop\\HSE\\kpo\\dz2\\dz2\\dz2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Danver\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.10\\microsoft.extensions.dependencyinjection.9.0.10.nupkg.sha512",
+    "C:\\Users\\Danver\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.10\\microsoft.extensions.dependencyinjection.abstractions.9.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
